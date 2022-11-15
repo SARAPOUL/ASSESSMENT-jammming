@@ -1,6 +1,6 @@
 const client_id = 'a6e27d20a21a4785bdfe16d428d6eb41'
-// const redirect_uri = 'http://localhost:3000/'
-const redirect_uri = 'https://assessment-jammming.vercel.app'
+const redirect_uri = 'http://localhost:3000/'
+// const redirect_uri = 'https://assessment-jammming.vercel.app'
 
 let accessToken
 // let expires_in = undefined
